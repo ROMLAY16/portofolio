@@ -23,7 +23,7 @@ export default function About() {
             className="md:w-1/2 mb-8 md:mb-0"
           >
             <Image
-              src="/placeholder.svg"
+              src="/logo.png"
               alt="3D Artist"
               width={400}
               height={400}
@@ -56,7 +56,10 @@ export default function About() {
               whileTap={{ scale: 0.95 }}
               className="bg-purple-600 text-white px-6 py-3 rounded-full font-bold text-lg shadow-lg hover:bg-purple-700 transition duration-300"
             >
+              <a href="https://download1587.mediafire.com/d5am8cg1318gG8HM-Jzh1SDMPVnzQSouRSsjn4xoWTJDDnQ6evTW6AEkMKJ7z54cavjcVA5Li3l7qFtAY-1HMgcUX49fVPX6N81rbJuHjXntxcHZvCyG-eAZYa43s9yptsmUYjGB_sAlUm2HgCOH0of-DoHTzgLa1e7UhpL1pswGtQ/z2a8lfpubvuuchd/CV.pdf">
+              
               Download Resume
+              </a>
             </motion.button>
           </motion.div>
         </div>
