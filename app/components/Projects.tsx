@@ -51,13 +51,13 @@ const projects = [
     description:
       "Di project ini saya membuat sebuah bangunan sekolah, dengan tema je-jepangan dengan menggabungkan unsur alam dan sebuah karakteristik bangunan saya dapat membuat sebuah karya ini",
   },
-  // {
-  //   id: 6,
-  //   title: "Motion Graphics",
-  //   category: "Animation",
-  //   image: "/placeholder.svg",
-  //   description: "sabar",
-  // },
+  {
+    id: 6,
+    title: "Motion Graphics",
+    category: "Animation",
+    image: "/placeholder.svg",
+    description: "sabar",
+  },
   {
     id: 7,
     title: " reactor",
