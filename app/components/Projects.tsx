@@ -36,13 +36,13 @@ const projects = [
     description:
       "Di project 3D ini saya membuat sebuah rumah di tepi danau yang bertemakan modern bercampur medival dan saya memberi sedikit lighting untuk project ini agar menambah kesan estetika  ",
   },
-  // {
-  //   id: 4,
-  //   title: "VFX Compositing",
-  //   category: "Editing",
-  //   image: "/placeholder.svg",
-  //   description: "sabar",
-  // },
+  {
+    id: 4,
+    title: "VFX Compositing",
+    category: "Editing",
+    image: "/placeholder.svg",
+    description: "sabar",
+  },
   {
     id: 5,
     title: "Sekolah",
