@@ -37,19 +37,19 @@ export default function About() {
             className="md:w-1/2"
           >
             <h3 className="text-xl sm:text-2xl font-bold text-purple-600 mb-4">
-              Hai aku Ihsan setiaji
+              Hai my name is Ihsan Setiaji
             </h3>
             <p className="text-base sm:text-lg text-gray-700 mb-6">
-              Saya adalah 3D artist dan Video editor. Di dalam 3D saya dapat
-              membuat sebuah bangunan yang indah dan juga saya tak lupa
-              menambahkan camera movement di dalam sebuah project saya.
+             I am a 3D artist and video editor.
+             In 3D I can create a beautiful building 
+             and I also don't forget to add camera movement to my project.
             </p>
             <p className="text-base sm:text-lg text-gray-700 mb-6">
-              Saya juga dapat membuat iklan di 3D sesuai kebutuhan dan
-              permintaan client. Di dalam Adobe, saya cukup mahir menggunakan 2
-              aplikasi yaitu Premiere Pro dan After Effects. Dengan sinkronisasi
-              antara Premiere dan After Effects, saya dapat menghasilkan video
-              sesuai permintaan dan harapan client.
+             I can also create advertisements in 3D according to client needs and requests. 
+             In Adobe, I am quite proficient in using 2 applications,
+             namely Premiere Pro and After Effects.
+             By synchronizing Premiere and After Effects,
+             I can produce videos according to client requests and expectations.
             </p>
             <motion.button
               whileHover={{ scale: 1.05 }}
